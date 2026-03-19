@@ -51,8 +51,7 @@ int main() {
 ##OUTPUT
 
 
-
-![Output](Screenshot at 2026-03-19 04-31-07.png)
+![Output](Screenshot%20at%202026-03-19%2004-31-07.png)
 
 
 
