@@ -50,7 +50,7 @@ int main() {
 
 ##OUTPUT
 
-<img width="981" height="153" alt="image" src="https://github.com/user-attachments/assets/8a9fa717-25be-4f7e-907f-064ca0b92184" />
+
 
 
 
@@ -109,7 +109,6 @@ int main() {
 ##OUTPUT
 
 
-<img width="1045" height="481" alt="image" src="https://github.com/user-attachments/assets/e2fe962f-8ea6-4be4-828e-fece1818cef2" />
 
 
 
