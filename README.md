@@ -52,7 +52,7 @@ int main() {
 
 
 
-
+![Output](Screenshot at 2026-03-19 04-31-07.png)
 
 
 
