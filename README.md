@@ -108,7 +108,6 @@ int main() {
 ##OUTPUT
 
 
-
 ![Output2](Screenshot%20at%202026-03-19%2004-32-58.png)
 
 
