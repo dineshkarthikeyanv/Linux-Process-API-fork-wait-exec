@@ -109,7 +109,8 @@ int main() {
 ##OUTPUT
 
 
-![Alt text](<../Screenshot at 2026-03-19 04-32-58.png>)
+<img width="1045" height="481" alt="image" src="https://github.com/user-attachments/assets/e2fe962f-8ea6-4be4-828e-fece1818cef2" />
+
 
 
 
