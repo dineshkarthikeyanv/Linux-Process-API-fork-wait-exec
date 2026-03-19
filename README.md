@@ -50,7 +50,8 @@ int main() {
 
 ##OUTPUT
 
-![Alt text](<../Screenshot at 2026-03-19 04-31-07.png>)
+<img width="981" height="153" alt="image" src="https://github.com/user-attachments/assets/8a9fa717-25be-4f7e-907f-064ca0b92184" />
+
 
 
 
